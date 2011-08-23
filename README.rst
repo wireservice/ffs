@@ -13,7 +13,7 @@ See index.csv for a reference to all schemas in this repository, including the c
 Contributions
 -------------
 
-Help free all of us from the evil cluthces of fixed-width by sharing your own schemas! Instructions:
+Help free all of us from the evil clutches of fixed-width by sharing your own schemas! Instructions:
 
 * Fork the repository.
 * Add your schema.
