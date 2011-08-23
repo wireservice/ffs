@@ -1,0 +1,15 @@
+column,start,length
+id,1,9
+amendment,10,1
+report_type,11,3
+election_type,14,1
+microfilm_location,15,11
+transaction_type,26,3
+transaction_month,29,2
+transaction_day,31,2
+transaction_century,33,2
+transaction_year,35,2
+amount,37,7
+other_id,44,9
+candidate_id,53,9
+fec_record,62,7
