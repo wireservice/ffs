@@ -1,0 +1,16 @@
+column,start,length
+committee_id,1,9
+committee_name,10,90
+treasurer_name,100,38
+street1,138,34
+street2,172,34
+city,206,18
+state,224,2
+zipcode,226,5
+committee_designation,231,1
+committee_type,232,1
+committee_party,233,3
+filing_frequency,236,1
+interest_group_category,237,1
+connected_org_name,238-275
+candidate_id,276-284
