@@ -6,12 +6,12 @@ A repository of schema's for common fixed-width data formats (mostly produced by
 This project is named after that feeling you get when you see a fixed-width file.
 
 Index
-=====
+-----
 
-See index.csv for a reference to all schemas in this repository.
+See index.csv for a reference to all schemas in this repository, including the contributor of each.
 
 Contributions
-=============
+-------------
 
 Help free all of us from the evil cluthces of fixed-width by sharing your own schemas! Instructions:
 
@@ -22,7 +22,7 @@ Help free all of us from the evil cluthces of fixed-width by sharing your own sc
 * We all PROFIT!!!
 
 License
-=======
+-------
 
-Who cares? It's just metadata. Do whatever you want.
+Public domain.
 
