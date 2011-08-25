@@ -4,7 +4,7 @@ area_code,3,5
 datatype_code,8,1
 size_code,9,1
 ownership_code,10,1
-naics_industry_code,11,6
+industry_code,11,6
 year,17,4
 aggregation_level,21,2
 first_quarter_status_code,23,1
