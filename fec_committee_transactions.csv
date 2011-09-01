@@ -11,7 +11,7 @@ state,81,2
 zipcode,83,5
 occupation,88,35
 transaction_month,123,2
-transaction_day,125,2d
+transaction_day,125,2
 transaction_century,127,2
 transaction_year,129,2
 amount,131,7
