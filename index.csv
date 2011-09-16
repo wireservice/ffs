@@ -1,4 +1,13 @@
-schema_filename,file_type,publisher,data_source,schema_source,contributor,
+schema_filename,file_type,publisher,data_source,schema_source,contributor
 census2000_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
 census2010_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
 enb_schema.csv,QCEW flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/special.requests/cew/,ftp://ftp.bls.gov/pub/special.requests/cew/DOCUMENT/layout.txt,Christopher Groskopf
+illinois/board_of_ed/reportcard2002.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2003.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2004.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2005.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2006.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2007.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2008.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2009.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2010.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
