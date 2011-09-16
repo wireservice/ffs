@@ -4,7 +4,7 @@ area_code,3,5
 datatype_code,8,1
 size_code,9,1
 ownership_code,10,1
-naics_industry_code,11,6
+industry_code,11,6
 year,17,4
 aggregation_level,21,2
 first_quarter_status_code,23,1
@@ -44,8 +44,8 @@ fourth_quarter_taxable_wages,335,15
 fourth_quarter_contributions,350,13
 fourth_quarter_average_weekly_wage,363,8
 annual_status_code,371,1
-annual_average_number_of_establishments,327,8
-annual_average_employment,380,8
+annual_average_number_of_establishments,372,8
+annual_average_employment,380,9
 annual_total_wages,389,15
 annual_taxable_wages,404,15
 annual_contributions,419,13
