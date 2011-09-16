@@ -1,13 +1,13 @@
 schema_filename,file_type,publisher,data_source,schema_source,contributor,
-bls_qcew_enb_schema.csv,QCEW flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/special.requests/cew/,ftp://ftp.bls.gov/pub/special.requests/cew/DOCUMENT/layout.txt,Christopher Groskopf
-bls_la_data_schema.csv,LA flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/time.series/la/,ftp://ftp.bls.gov/pub/time.series/la/la.txt,Christopher Groskopf
-census2000_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
-census2010_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
-fec_committee_master_schema.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cm_dictionary.txt,Aaron Bycoffe
-fec_candidate_master_schema.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
-fec_individual_contributions.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
-fec_contributions_to_candidates.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
-fec_committee_transactions.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/oth_dictionary.txt,Aaron Bycoffe
+us/bls/bls_qcew_enb_schema.csv,QCEW flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/special.requests/cew/,ftp://ftp.bls.gov/pub/special.requests/cew/DOCUMENT/layout.txt,Christopher Groskopf
+us/bls/bls_la_data_schema.csv,LA flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/time.series/la/,ftp://ftp.bls.gov/pub/time.series/la/la.txt,Christopher Groskopf
+us/census/census2000_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
+us/census/census2010_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
+us/fec/fec_committee_master_schema.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cm_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_committee_transactions.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/oth_dictionary.txt,Aaron Bycoffe
 illinois/board_of_ed/reportcard2002.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
 illinois/board_of_ed/reportcard2003.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
 illinois/board_of_ed/reportcard2004.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
