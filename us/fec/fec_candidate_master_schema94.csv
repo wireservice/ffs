@@ -1,0 +1,15 @@
+column,start,length
+candid_id,1,9
+candidate_name,10,38
+party_designation1,48,3
+party_designation3,54,3
+incumbent_challenger_open,57,1
+state,59,1
+street1,60,34
+street2,94,34
+city,128,18
+state,146,2
+zipcode,148,5
+principal_committee_id,153,9
+election_year,162,2
+current_district,164,2
