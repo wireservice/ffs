@@ -1,0 +1,13 @@
+column,start,length
+filer_id,1,9
+amendment,10,1
+report_type,11,3
+election_type,14,1
+microfilm_location,15,11
+transaction_type,26,3
+transaction_month,29,2
+transaction_day,31,2
+transaction_year,33,2
+amount,35,7
+other_id,42,9
+candidate_id,51,9

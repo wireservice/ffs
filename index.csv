@@ -1,12 +1,44 @@
-schema_filename,file_type,publisher,data_source,schema_source,contributor,
+schema_filename,file_type,publisher,data_source,schema_source,contributor
 us/bls/bls_qcew_enb_schema.csv,QCEW flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/special.requests/cew/,ftp://ftp.bls.gov/pub/special.requests/cew/DOCUMENT/layout.txt,Christopher Groskopf
 us/bls/bls_la_data_schema.csv,LA flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/time.series/la/,ftp://ftp.bls.gov/pub/time.series/la/la.txt,Christopher Groskopf
 us/census/census2000_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
 us/census/census2010_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
 us/fec/fec_committee_master_schema.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cm_dictionary.txt,Aaron Bycoffe
 us/fec/fec_candidate_master_schema.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema80.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema82.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema84.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema86.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema88.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema90.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema92.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema94.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema96.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_master_schema98.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
 us/fec/fec_individual_contributions.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions80.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions82.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions84.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions86.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions88.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions90.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions92.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions94.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions96.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_individual_contributions98.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/indiv_dictionary.txt,Aaron Bycoffe
+us/fec/fec_candidate_summary.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpsum.shtml,http://fec.gov/finance/disclosure/ftpsum.shtml,Aaron Bycoffe
+us/fec/fec_pac_summary.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpsum.shtml,http://fec.gov/finance/disclosure/ftpsum.shtml,Aaron Bycoffe
 us/fec/fec_contributions_to_candidates.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates80.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates82.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates84.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates86.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates88.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates90.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates92.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates94.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates96.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
+us/fec/fec_contributions_to_candidates98.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
 us/fec/fec_committee_transactions.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/oth_dictionary.txt,Aaron Bycoffe
 illinois/board_of_ed/reportcard2002.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
 illinois/board_of_ed/reportcard2003.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
