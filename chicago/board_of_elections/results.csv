@@ -1,0 +1,12 @@
+column,length,start
+Contest Code,4,1
+Candidate Number,3,5
+# of Eligible Precincts,4,8
+Votes,7,12
+# Completed precincts,4,19
+Party Abbreviation,3,23
+Political Subdivision Abbrev,7,26
+Contest name,56,33
+Candidate Name,38,89
+Political subdivision name,25,127
+Vote For,3,152
