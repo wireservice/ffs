@@ -1,0 +1,51 @@
+column,start,length,label
+FILEID,0,6,File Identification         
+STUSAB,6,2,State Postal Abbreviation
+SUMLEVEL,8,3,Summary Level            
+COMPONENT,11,2,geographic Component
+LOGRECNO,13,7,Logical Record Number
+US,20,1,US
+REGION,21,1,Region
+DIVISION,22,1,Division
+STATECE,23,2,State (Census Code)
+STATE,25,2,State (FIPS Code)
+COUNTY,27,3,County
+COUSUB,30,5,County Subdivision (FIPS)
+PLACE,35,5,Place (FIPS Code)
+TRACT,40,6,Census Tract
+BLKGRP,46,1,Block Group
+CONCIT,47,5,Consolidated City
+AIANHH,52,4,American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+AIANHHFP,56,5,American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+AIHHTLI,61,1,American Indian Trust Land/Hawaiian Home Land Indicator
+AITSCE,62,3,American Indian Tribal Subdivision (Census)
+AITS,65,5,American Indian Tribal Subdivision (FIPS)
+ANRC,70,5,Alaska Native Regional Corporation (FIPS)
+CBSA,75,5,Metropolitan and Micropolitan Statistical Area
+CSA,80,3,Combined Statistical Area
+METDIV,83,5,Metropolitan Division
+MACC,88,1,Metropolitan Area Central City
+MEMI,89,1,Metropolitan/Micropolitan Indicator Flag
+NECTA,90,5,New England City and Town Combined Statistical Area
+CNECTA,95,3,New England City and Town Area
+NECTADIV,98,5,New England City and Town Area Division
+UA,103,5,Urban Area
+UACP,108,5,Urban Area Central Place
+CDCURR,113,2,Current Congressional District
+SLDU,115,3,State Legislative District Upper
+SLDL,118,3,State Legislative District Lower
+VTD,121,6,Voting District
+ZCTA3,127,3,ZIP Code Tabulation Area (3-digit)
+ZCTA5,130,5,ZIP Code Tabulation Area (5-digit)
+SUBMCD,135,5,Subbarrio (FIPS)
+SDELM,140,5,School District (Elementary)
+SDSEC,145,5,School District (Secondary)
+SDUNI,150,5,School District (Unified)
+UR,155,1,Urban/Rural
+PCI,156,1,Principal City Indicator
+TAZ,157,6,Traffic Analysis Zone
+UGA,163,5,Urban Growth Area
+PUMA5,168,5,Public Use Microdata Area - 5% File
+PUMA1,173,5,Public Use Microdata Area - 1% File
+GEOID,178,40,geographic Identifier
+NAME,218,200,Area Name
