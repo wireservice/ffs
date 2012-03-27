@@ -3,6 +3,7 @@ us/bls/bls_qcew_enb_schema.csv,QCEW flat files,Bureau of Labor Statistics,ftp://
 us/bls/bls_la_data_schema.csv,LA flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/time.series/la/,ftp://ftp.bls.gov/pub/time.series/la/la.txt,Christopher Groskopf
 us/census/census2000_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
 us/census/census2010_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
+us/census/acs2010_geo_schema.csv,Census Geography Headers for American Community Survey (ACS),U.S. Census Bureau,http://www2.census.gov/acs2010_5yr/,Adapted from SAS macro at http://www2.census.gov/acs2010_5yr/summaryfile/UserTools/SF_All_Macro.sas,Joe Germuska
 us/fec/fec_committee_master_schema.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cm_dictionary.txt,Aaron Bycoffe
 us/fec/fec_candidate_master_schema.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
 us/fec/fec_candidate_master_schema80.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/cn_dictionary.txt,Aaron Bycoffe
