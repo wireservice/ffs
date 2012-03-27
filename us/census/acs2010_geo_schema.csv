@@ -1,8 +1,8 @@
 column,start,length,label
 FILEID,0,6,File Identification         
 STUSAB,6,2,State Postal Abbreviation
-SUMLEVEL,8,3,Summary Level            
-COMPONENT,11,2,geographic Component
+SUMLEV,8,3,Summary Level            
+GEOCOMP,11,2,geographic Component
 LOGRECNO,13,7,Logical Record Number
 US,20,1,US
 REGION,21,1,Region
