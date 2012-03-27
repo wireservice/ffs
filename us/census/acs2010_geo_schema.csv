@@ -1,4 +1,4 @@
-column,start,length,label
+column,start,length,description
 FILEID,0,6,File Identification         
 STUSAB,6,2,State Postal Abbreviation
 SUMLEV,8,3,Summary Level            
