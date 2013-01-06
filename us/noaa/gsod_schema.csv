@@ -1,0 +1,33 @@
+column,start,length,description
+STN---,0,6,Station number (WMO/DATSAV3)
+WBAN,7,5,WBAN (historical) station number
+YEAR,14,4,Year
+MO,18,2,Month
+DA,20,2,Day
+TEMP,24,6,Mean temperature (F); missing = 9999.9
+Count (TEMP),31,2,Number of observations used to figure TEMP
+DEWP,35,6,Mean dew point (F); missing = 9999.9
+Count (DEWP),42,2,Number of observations used to figure DEWP
+SLP,46,6,Mean sea level pressure (mbar); missing = 9999.9
+Count (SLP),53,2,Number of observations used to figure SLP
+STP,57,6,Mean station pressure (mbar); missing = 9999.9
+Count (STP),64,2,Number of observations used to figure STP
+VISIB,68,5,Mean visibility (miles); missing = 999.9
+Count (VISIB),74,2,Number of observations used to figure VISIB
+WDSP,78,5,Mean wind speed (knots); missing = 999.9
+Count (WDSP),84,2,Number of observations used to figure WDSP
+MXSPD,88,5,Maximum sustained wind speed (knots); missing = 999.9
+GUST,95,5,Maximum wind gust (knots); missing = 999.9
+MAX,102,6,Maximum temperature (F); missing = 9999.9
+Flag (MAX),108,1,Blank means MAX is actual maximum temp; * means MAX is from hourly readings
+MIN,110,6,Minimum temperature (F); missing = 9999.9
+Flag (MIN),116,1,Blank means MIN is actual minimum temp; * means MIN is from hourly readings
+PRCP,118,5,Total precipitation (rain/melted snow, inches); missing = 99.99
+Flag (PRCP),123,1,Source of precipitation data--see ftp://ftp.ncdc.noaa.gov/pub/data/gsod/readme.txt for details
+SNDP,125,5,Snow depth (inches); missing = 999.9
+Fog,132,1,Fog occurred (boolean)
+Rain/Drizzle,133,1,Rain or drizzle occurred (boolean)
+Snow/Ice pellets,134,1,Snow or ice pellets occurred (boolean)
+Hail,135,1,Hail occurred (boolean)
+Thunder,136,1,Thunder occurred (boolean)
+Tornado/Funnel cloud,137,1,Tornado or funnel cloud occurred (boolean)
