@@ -41,6 +41,7 @@ us/fec/fec_contributions_to_candidates94.csv,Flat files,Federal Election Commiss
 us/fec/fec_contributions_to_candidates96.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
 us/fec/fec_contributions_to_candidates98.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/pas2_dictionary.txt,Aaron Bycoffe
 us/fec/fec_committee_transactions.csv,Flat files,Federal Election Commission,http://fec.gov/finance/disclosure/ftpdet.shtml,ftp://ftp.fec.gov/FEC/oth_dictionary.txt,Aaron Bycoffe
+us/noaa/gsod_schema.csv,Global Surface Summary of the Day gzipped flat files,National Climatic Data Center,ftp://ftp.ncdc.noaa.gov/pub/data/gsod/,ftp://ftp.ncdc.noaa.gov/pub/data/gsod/readme.txt,Justin Myers
 illinois/board_of_ed/reportcard2002.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
 illinois/board_of_ed/reportcard2003.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
 illinois/board_of_ed/reportcard2004.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
