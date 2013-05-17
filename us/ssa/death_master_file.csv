@@ -1,0 +1,10 @@
+column,start,description,length
+rectype,1,"01 BLANK OR A (ADD), C (CHANGE), OR D (DELETE)***",1
+ssn,2,02-10 SOCIAL SECURITY NUMBER,9
+last_name,11,11-30 LAST NAME,20
+suffix,31,31-34 NAME SUFFIX,4
+first_name,35,35-49 FIRST NAME,15
+middle_name,50,50-64 MIDDLE NAME,15
+vp_code,65,65 V or P CODE (VERIFIED OR PROOF CODE)****,1
+death_date,66,"66-73 DATE OF DEATH (MM,DD,CC,YY)",8
+birth_date,74,"74-81 DATE OF BIRTH (MM,DD,CC,YY)",8
