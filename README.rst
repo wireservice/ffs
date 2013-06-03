@@ -19,6 +19,8 @@ Help free all of us from the evil clutches of fixed-width by sharing your own sc
 * Send a pull request.
 * We all PROFIT!!!
 
+See `index.csv` for a complete list of contributors.
+
 License
 -------
 
