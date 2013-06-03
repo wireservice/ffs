@@ -52,5 +52,6 @@ illinois/board_of_ed/reportcard2008.csv,Illinois School Report Card,Illinois Sta
 illinois/board_of_ed/reportcard2009.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
 illinois/board_of_ed/reportcard2010.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
 illinois/board_of_ed/reportcard2011.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
+illinois/board_of_ed/reportcard2012.csv,Illinois School Report Card,Illinois State Board of Education,http://www.isbe.net/research/htmls/report_card.htm,Derived from ISBE file layout (XLS),Joe Germuska
 chicago/board_of_elections/results.csv,Election Results,Chicago Board of Elections,http://chicagoelections.com/results/ap/summary.txt,Derived from http://chicagoelections.com/results/ap/text_layout.txt,Joe Germuska
 us/ssa/death_master_file.csv,fixed width,National Technical Information Service on behalf of the Social Security Administration,https://dmf.ntis.gov/recordlayout.pdf,Joe Germuska
