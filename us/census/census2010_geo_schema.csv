@@ -1,78 +1,78 @@
 column,start,length,description
-FILEID,0,6,File Identiﬁcation,File Identiﬁcation
-STUSAB,6,2,State/U.S. Abbreviation (USPS),State/U.S. Abbreviation (USPS)
-SUMLEV,8,3,Summary Level,Summary Level
-GEOCOMP,11,2,Geographic Component,Geographic Component
-CHARITER,13,3,Characteristic Iteration,Characteristic Iteration
-CIFSN,16,2,Characteristic Iteration File Sequence Number,Characteristic Iteration File Sequence Number
-LOGRECNO,18,7,Logical Record Number,Logical Record Number
-REGION,25,1,Region,Region
-DIVISION,26,1,Division,Division
-STATE,27,2,State (FIPS),State (FIPS)
-COUNTY,29,3,County,County
-COUNTYCC,32,2,FIPS County Class Code,FIPS County Class Code
-COUNTYSC,34,2,County Size Code,County Size Code
-COUSUB,36,5,County Subdivision (FIPS),County Subdivision (FIPS)
-COUSUBCC,41,2,FIPS County Subdivision Class Code,FIPS County Subdivision Class Code
-COUSUBSC,43,2,County Subdivision Size Code,County Subdivision Size Code
-PLACE,45,5,Place (FIPS),Place (FIPS)
-PLACECC,50,2,FIPS Place Class Code,FIPS Place Class Code
-PLACESC,52,2,Place Size Code,Place Size Code
-TRACT,54,6,Census Tract,Census Tract
-BLKGRP,60,1,Block Group,Block Group
-BLOCK,61,4,Block,Block
-IUC,65,2,Internal Use Code,Internal Use Code
-CONCIT,67,5,Consolidated City (FIPS),Consolidated City (FIPS)
-CONCITCC,72,2,FIPS Consolidated City Class Code,FIPS Consolidated City Class Code
-CONCITSC,74,2,Consolidated City Size Code,Consolidated City Size Code
-AIANHH,76,4,American Indian Area/Alaska Native Area/ Hawaiian Home Land (Census),American Indian Area/Alaska Native Area/ Hawaiian Home Land (Census)
-AIANHHFP,80,5,American Indian Area/Alaska Native Area/ Hawaiian Home Land (FIPS),American Indian Area/Alaska Native Area/ Hawaiian Home Land (FIPS)
-AIANHHCC,85,2,FIPS American Indian Area/Alaska Native Area/Hawaiian Home Land Class Code,FIPS American Indian Area/Alaska Native Area/Hawaiian Home Land Class Code
-AIHHTLI,87,1,American Indian Trust Land/Hawaiian Home Land Indicator,American Indian Trust Land/Hawaiian Home Land Indicator
-AITSCE,88,3,American Indian Tribal Subdivision (Census),American Indian Tribal Subdivision (Census)
-AITS,91,5,American Indian Tribal Subdivision (FIPS),American Indian Tribal Subdivision (FIPS)
-AITSCC,96,2,FIPS American Indian Tribal Subdivision Class Code,FIPS American Indian Tribal Subdivision Class Code
-TTRACT,98,6,Tribal Census Tract,Tribal Census Tract
-TBLKGRP,104,1,Tribal Block Group,Tribal Block Group
-ANRC,105,5,Alaska Native Regional Corporation (FIPS),Alaska Native Regional Corporation (FIPS)
-ANRCCC,110,2,FIPS Alaska Native Regional Corporation Class Code,FIPS Alaska Native Regional Corporation Class Code
-CBSA,112,5,Metropolitan Statistical Area/Micropolitan Statistical Area,Metropolitan Statistical Area/Micropolitan Statistical Area
-CBSASC,117,2,Metropolitan Statistical Area/Micropolitan Statistical Area Size Code,Metropolitan Statistical Area/Micropolitan Statistical Area Size Code
-METDIV,119,5,Metropolitan Division,Metropolitan Division
-CSA,124,3,Combined Statistical Area,Combined Statistical Area
-NECTA,127,5,New England City and Town Area,New England City and Town Area
-NECTASC,132,2,New England City and Town Area Size Code,New England City and Town Area Size Code
-NECTADIV,134,5,New England City and Town Area Division,New England City and Town Area Division
-CNECTA,139,3,Combined New England City and Town Area,Combined New England City and Town Area
-CBSAPCI,142,1,Metropolitan Statistical Area/Micropolitan Statistical Area Principal City Indicator,Metropolitan Statistical Area/Micropolitan Statistical Area Principal City Indicator
-NECTAPCI,143,1,New England City and Town Area Principal City Indicator,New England City and Town Area Principal City Indicator
-UA,144,5,Urban Area,Urban Area
-UASC,149,2,Urban Area Size Code,Urban Area Size Code
-UATYPE,151,1,Urban Area Type,Urban Area Type
-UR,152,1,Urban/Rural,Urban/Rural
-CD,153,2,Congressional District (111th),Congressional District (111th)
-SLDU,155,3,State Legislative District (Upper Chamber) (Year 1),State Legislative District (Upper Chamber) (Year 1)
-SLDL,158,3,State Legislative District (Lower Chamber) (Year 1),State Legislative District (Lower Chamber) (Year 1)
-VTD,161,6,Voting District,Voting District
-VTDI,167,1,Voting District Indicator,Voting District Indicator
-RESERVE2,168,3,Reserved,Reserved
-ZCTA5,171,5,ZIP Code Tabulation Area (5-Digit),ZIP Code Tabulation Area (5-Digit)
-SUBMCD,176,5,Subminor Civil Division (FIPS),Subminor Civil Division (FIPS)
-SUBMCDCC,181,2,FIPS Subminor Civil Division Class Code,FIPS Subminor Civil Division Class Code
-SDELM,183,5,School District (Elementary),School District (Elementary)
-SDSEC,188,5,School District (Secondary),School District (Secondary)
-SDUNI,193,5,School District (Uniﬁed),School District (Uniﬁed)
-AREALAND,198,14,Area (Land),Area (Land)
-AREAWATR,212,14,Area (Water),Area (Water)
-NAME,226,90,Area Name-Legal/Statistical Area Description (LSAD) Term-Part Indicator,Area Name-Legal/Statistical Area Description (LSAD) Term-Part Indicator
-FUNCSTAT,316,1,Functional Status Code,Functional Status Code
-GCUNI,317,1,Geographic Change User Note Indicator,Geographic Change User Note Indicator
-POP100,318,9,Population Count (100%),Population Count (100%)
-HU100,327,9,Housing Unit Count (100%),Housing Unit Count (100%)
-INTPTLAT,336,11,Internal Point (Latitude),Internal Point (Latitude)
-INTPTLON,347,12,Internal Point (Longitude),Internal Point (Longitude)
-LSADC,359,2,Legal/Statistical Area Description Code,Legal/Statistical Area Description Code
-PARTFLAG,361,1,Part Flag,Part Flag
+FILEID,0,6,File Identification
+STUSAB,6,2,State/U.S. Abbreviation (USPS)
+SUMLEV,8,3,Summary Level
+GEOCOMP,11,2,Geographic Component
+CHARITER,13,3,Characteristic Iteration
+CIFSN,16,2,Characteristic Iteration File Sequence Number
+LOGRECNO,18,7,Logical Record Number
+REGION,25,1,Region
+DIVISION,26,1,Division
+STATE,27,2,State (FIPS)
+COUNTY,29,3,County
+COUNTYCC,32,2,FIPS County Class Code
+COUNTYSC,34,2,County Size Code
+COUSUB,36,5,County Subdivision (FIPS)
+COUSUBCC,41,2,FIPS County Subdivision Class Code
+COUSUBSC,43,2,County Subdivision Size Code
+PLACE,45,5,Place (FIPS)
+PLACECC,50,2,FIPS Place Class Code
+PLACESC,52,2,Place Size Code
+TRACT,54,6,Census Tract
+BLKGRP,60,1,Block Group
+BLOCK,61,4,Block
+IUC,65,2,Internal Use Code
+CONCIT,67,5,Consolidated City (FIPS)
+CONCITCC,72,2,FIPS Consolidated City Class Code
+CONCITSC,74,2,Consolidated City Size Code
+AIANHH,76,4,American Indian Area/Alaska Native Area/ Hawaiian Home Land (Census)
+AIANHHFP,80,5,American Indian Area/Alaska Native Area/ Hawaiian Home Land (FIPS)
+AIANHHCC,85,2,FIPS American Indian Area/Alaska Native Area/Hawaiian Home Land Class Code
+AIHHTLI,87,1,American Indian Trust Land/Hawaiian Home Land Indicator
+AITSCE,88,3,American Indian Tribal Subdivision (Census)
+AITS,91,5,American Indian Tribal Subdivision (FIPS)
+AITSCC,96,2,FIPS American Indian Tribal Subdivision Class Code
+TTRACT,98,6,Tribal Census Tract
+TBLKGRP,104,1,Tribal Block Group
+ANRC,105,5,Alaska Native Regional Corporation (FIPS)
+ANRCCC,110,2,FIPS Alaska Native Regional Corporation Class Code
+CBSA,112,5,Metropolitan Statistical Area/Micropolitan Statistical Area
+CBSASC,117,2,Metropolitan Statistical Area/Micropolitan Statistical Area Size Code
+METDIV,119,5,Metropolitan Division
+CSA,124,3,Combined Statistical Area
+NECTA,127,5,New England City and Town Area
+NECTASC,132,2,New England City and Town Area Size Code
+NECTADIV,134,5,New England City and Town Area Division
+CNECTA,139,3,Combined New England City and Town Area
+CBSAPCI,142,1,Metropolitan Statistical Area/Micropolitan Statistical Area Principal City Indicator
+NECTAPCI,143,1,New England City and Town Area Principal City Indicator
+UA,144,5,Urban Area
+UASC,149,2,Urban Area Size Code
+UATYPE,151,1,Urban Area Type
+UR,152,1,Urban/Rural
+CD,153,2,Congressional District (111th)
+SLDU,155,3,State Legislative District (Upper Chamber) (Year 1)
+SLDL,158,3,State Legislative District (Lower Chamber) (Year 1)
+VTD,161,6,Voting District
+VTDI,167,1,Voting District Indicator
+RESERVE2,168,3,Reserved
+ZCTA5,171,5,ZIP Code Tabulation Area (5-Digit)
+SUBMCD,176,5,Subminor Civil Division (FIPS)
+SUBMCDCC,181,2,FIPS Subminor Civil Division Class Code
+SDELM,183,5,School District (Elementary)
+SDSEC,188,5,School District (Secondary)
+SDUNI,193,5,School District (Unified)
+AREALAND,198,14,Area (Land)
+AREAWATR,212,14,Area (Water)
+NAME,226,90,Area Name-Legal/Statistical Area Description (LSAD) Term-Part Indicator
+FUNCSTAT,316,1,Functional Status Code
+GCUNI,317,1,Geographic Change User Note Indicator
+POP100,318,9,Population Count (100%)
+HU100,327,9,Housing Unit Count (100%)
+INTPTLAT,336,11,Internal Point (Latitude)
+INTPTLON,347,12,Internal Point (Longitude)
+LSADC,359,2,Legal/Statistical Area Description Code
+PARTFLAG,361,1,Part Flag
 RESERVE3,362,6,Reserved
 UGA,368,5,Urban Growth Area
 STATENS,373,8,State (ANSI)
