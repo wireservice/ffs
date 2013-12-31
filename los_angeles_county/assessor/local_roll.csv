@@ -12,8 +12,8 @@ exemption_claim_type_key,49,1
 gross_personal_property_value,50,9
 filler,59,9
 fixture_value,68,9
-real_estate_exemption,77,9
-personal_property_exemption,86,9
+real_estate_exemption_value,77,9
+personal_property_exemption_value,86,9
 fixture_exemption_value,95,9
 homeowners_exemption,104,7
 first_owner_assessee_name,111,32
