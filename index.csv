@@ -57,3 +57,4 @@ chicago/board_of_elections/results.csv,Election Results,Chicago Board of Electio
 us/ssa/death_master_file.csv,fixed width,National Technical Information Service on behalf of the Social Security Administration,,https://dmf.ntis.gov/recordlayout.pdf,Joe Germuska
 us/irs/irs_exempt_org_schema.csv,Flat Files,Internal Revenue Service,http://www.irs.gov/uac/SOI-Tax-Stats-Exempt-Organizations-Business-Master-File-Extract-(EO-BMF),http://www.irs.gov/pub/irs-soi/eobk13.txt,Derek Willis
 us/dot/nbi_fixed_schema.csv,fixed width,U.S. Department of Transportation Federal Highway Administration's National Bridge Inventory,http://www.fhwa.dot.gov/bridge/nbi/ascii.cfm,http://www.fhwa.dot.gov/bridge/nbi/format.cfm,Tom Meagher
+los_angeles_county/assessor/local_roll.csv,fixed width,Los Angeles County Office of the Assessor,California Public Records Act request,California Public Records Act request,Ben Welsh
