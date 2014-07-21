@@ -1,4 +1,5 @@
 schema_filename,file_type,publisher,data_source,schema_source,contributor
+us/census/census2010_geo_schema.csv,Census Headers for SAIPE,U.S. Census Bureau,https://www.census.gov/did/www/saipe/data/statecounty/data/index.html,https://www.census.gov/did/www/saipe/data/statecounty/data/2012.html,Gabriel Florit
 us/bls/bls_qcew_enb_schema.csv,QCEW flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/special.requests/cew/,ftp://ftp.bls.gov/pub/special.requests/cew/DOCUMENT/layout.txt,Christopher Groskopf
 us/bls/bls_la_data_schema.csv,LA flat files,Bureau of Labor Statistics,ftp://ftp.bls.gov/pub/time.series/la/,ftp://ftp.bls.gov/pub/time.series/la/la.txt,Christopher Groskopf
 us/census/census2000_geo_schema.csv,Census Geography Headers,U.S. Census Bureau,http://www2.census.gov/census_2010/,Extracted from Access shells provided by the Census Bureau,Joe Germuska
