@@ -1,0 +1,33 @@
+column,start,description,length
+"FIPS_STATE",0,"FIPS state code",2
+"FIPS_COUNTY",3,"FIPS county code ( 0 for US or state level records)",3
+"TOTAL_ALL",7,"Estimate of people of all ages in poverty",8
+"TOTAL_ALL_LCI",16,"90% confidence interval lower bound of estimate of people of all ages in poverty",8
+"TOTAL_ALL_UCI",25,"90% confidence interval upper bound of estimate of people of all ages in poverty",8
+"PCT_ALL",34,"Estimated percent of people of all ages in poverty",4
+"PCT_ALL_LCI",39,"90% confidence interval lower bound of estimate of percent of people of all ages in poverty",4
+"PCT_ALL_UCI",44,"90% confidence interval upper bound of estimate of percent of people of all ages in poverty",4
+"TOTAL_0_17",49,"Estimate of people age 0-17 in poverty",8
+"TOTAL_0_17_LCI",58,"90% confidence interval lower bound of estimate of people age 0-17 in poverty",8
+"TOTAL_0_17_UCI",67,"90% confidence interval upper bound of estimate of people age 0-17 in poverty",8
+"PCT_0_17",76,"Estimated percent of people age 0-17 in poverty",4
+"PCT_0_17_LCI",81,"90% confidence interval lower bound of estimate of percent of people age 0-17 in poverty",4
+"PCT_0_17_UCI",86,"90% confidence interval upper bound of estimate of percent of people age 0-17 in poverty",4
+"TOTAL_5_17",91,"Estimate of related children age 5-17 in families in poverty",8
+"TOTAL_5_17_LCI",100,"90% confidence interval lower bound of estimate of related children age 5-17 in families in poverty",8
+"TOTAL_5_17_UCI",109,"90% confidence interval upper bound of estimate of related children age 5-17 in families in poverty",8
+"PCT_5_17",118,"Estimated percent of related children age 5-17 in families in poverty",4
+"PCT_5_17_LCI",123,"90% confidence interval lower bound of estimate of percent of related children age 5-17 in families in poverty",4
+"PCT_5_17_UCI",128,"90% confidence interval upper bound of estimate of percent of related children age 5-17 in families in poverty",4
+"INCOME",133,"Estimate of median household income",6
+"INCOME_LCI",140,"90% confidence interval lower bound of estimate of median household income",6
+"INCOME_UCI",147,"90% confidence interval upper bound of estimate of median household income",6
+"TOTAL_0_5",154,"Estimate of people under age 5 in poverty",7
+"TOTAL_0_5_LCI",162,"90% confidence interval lower bound of estimate of people under age 5 in poverty",7
+"TOTAL_0_5_UCI",170,"90% confidence interval upper bound of estimate of people under age 5 in poverty",7
+"PCT_0_5",178,"Estimated percent of people under age 5 in poverty",4
+"PCT_0_5_LCI",183,"90% confidence interval lower bound of estimate of percent of people under age 5 in poverty",4
+"PCT_0_5_UCI",188,"90% confidence interval upper bound of estimate of percent of people under age 5 in poverty",4
+"PLACE",193,"State or county name",45
+"ABBR",239,"Two-letter Postal State abbreviation",2
+"TIMESTAMP",242,"A tag indicating the file name and date of creation",22
