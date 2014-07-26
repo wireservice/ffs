@@ -6,7 +6,7 @@ A repository of schema's for common fixed-width data formats (mostly produced by
 Index
 -----
 
-See index.csv for a reference to all schemas in this repository, including the contributor of each.
+See [index.csv](https://github.com/onyxfish/ffs/blob/master/index.csv) for a reference to all schemas in this repository, including the contributor of each.
 
 Contributions
 -------------
@@ -19,7 +19,7 @@ Help free all of us from the evil clutches of fixed-width by sharing your own sc
 * Send a pull request.
 * We all PROFIT!!!
 
-See `index.csv` for a complete list of contributors.
+See [index.csv](https://github.com/onyxfish/ffs/blob/master/index.csv) for a complete list of contributors.
 
 License
 -------
