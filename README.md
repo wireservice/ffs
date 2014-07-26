@@ -1,7 +1,7 @@
 FFS Fixed Schemas
 =================
 
-A repository of schema's for common fixed-width data formats (mostly produced by various government entities). Each schema is the correct format suitable for use with `csvkit <http://github.com/onyxfish/csvkit/>`_'s in2csv utility.
+A repository of schema's for common fixed-width data formats (mostly produced by various government entities). Each schema is the correct format suitable for use with [csvkit](http://github.com/onyxfish/csvkit/)'s in2csv utility.
 
 Index
 -----
