@@ -22,7 +22,7 @@ MAX,102,6,Maximum temperature (F); missing = 9999.9
 Flag (MAX),108,1,Blank means MAX is actual maximum temp; * means MAX is from hourly readings
 MIN,110,6,Minimum temperature (F); missing = 9999.9
 Flag (MIN),116,1,Blank means MIN is actual minimum temp; * means MIN is from hourly readings
-PRCP,118,5,Total precipitation (rain/melted snow, inches); missing = 99.99
+PRCP,118,5,"Total precipitation (rain/melted snow, inches); missing = 99.99"
 Flag (PRCP),123,1,Source of precipitation data--see ftp://ftp.ncdc.noaa.gov/pub/data/gsod/readme.txt for details
 SNDP,125,5,Snow depth (inches); missing = 999.9
 Fog,132,1,Fog occurred (boolean)
