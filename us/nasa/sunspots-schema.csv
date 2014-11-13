@@ -1,0 +1,5 @@
+column,start,length,description
+year,0,4,Year
+month,5,2,Month
+ssn,8,5,Sun Spots Monthly Average
+dev,14,5,Sun Spots Standard Deviation
