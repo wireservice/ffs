@@ -1,0 +1,52 @@
+column,start,length,description
+ID,0,10,Station Identifier
+YEAR,11,4,Year
+ELEMENT,15,4,Element Type
+VALUE1,19,5,January Value
+DMFLAG1,24,1,Data Measurement Flag
+QCFLAG1,25,1,Quality Control Flag
+DSFLAG1,26,1,Data Source Flag
+VALUE2,27,5,January Value
+DMFLAG2,32,1,Data Measurement Flag
+QCFLAG2,33,1,Quality Control Flag
+DSFLAG2,34,1,Data Source Flag
+VALUE3,35,5,March Value
+DMFLAG3,40,1,Data Measurement Flag
+QCFLAG3,41,1,Quality Control Flag
+DSFLAG3,42,1,Data Source Flag
+VALUE4,43,5,April Value
+DMFLAG4,48,1,Data Measurement Flag
+QCFLAG4,49,1,Quality Control Flag
+DSFLAG4,50,1,Data Source Flag
+VALUE5,51,5,May Value
+DMFLAG5,56,1,Data Measurement Flag
+QCFLAG5,57,1,Quality Control Flag
+DSFLAG5,58,1,Data Source Flag
+VALUE6,59,5,June Value
+DMFLAG6,64,1,Data Measurement Flag
+QCFLAG6,65,1,Quality Control Flag
+DSFLAG6,66,1,Data Source Flag
+VALUE7,67,5,July Value
+DMFLAG7,72,1,Data Measurement Flag
+QCFLAG7,73,1,Quality Control Flag
+DSFLAG7,74,1,Data Source Flag
+VALUE8,75,5,August Value
+DMFLAG8,80,1,Data Measurement Flag
+QCFLAG8,81,1,Quality Control Flag
+DSFLAG8,82,1,Data Source Flag
+VALUE9,83,5,September Value
+DMFLAG9,88,1,Data Measurement Flag
+QCFLAG9,89,1,Quality Control Flag
+DSFLAG9,90,1,Data Source Flag
+VALUE10,91,5,October Value
+DMFLAG10,96,1,Data Measurement Flag
+QCFLAG10,97,1,Quality Control Flag
+DSFLAG10,98,1,Data Source Flag
+VALUE11,99,5,November Value
+DMFLAG11,104,1,Data Measurement Flag
+QCFLAG11,105,1,Quality Control Flag
+DSFLAG11,106,1,Data Source Flag
+VALUE12,107,5,December Value
+DMFLAG12,112,1,Data Measurement Flag
+QCFLAG12,113,1,Quality Control Flag
+DSFLAG12,114,1,Data Source Flag
