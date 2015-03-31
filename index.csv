@@ -62,3 +62,4 @@ los_angeles_county/assessor/local_roll.csv,fixed width,Los Angeles County Office
 us/nasa/sunspots-schema.csv,fixed width,NASA,http://solarscience.msfc.nasa.gov/SunspotCycle.shtml,extraced from file,Robert Kosara
 us/noaa/ghcn_schema.csv,fixed width,National Climatic Data Center,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/README,Beojan Stanislaus
 us/noaa/ghcn_metadata_schema.csv,fixed width,National Climatic Data Center,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/README,Beojan Stanislaus
+us/nacjd/leaic_2005.csv,fixed width Law Enforcement Agencies Identifier Crosswalk,National Archive of Criminal Justice Data,http://www.icpsr.umich.edu/cgi-bin/bob/terms2?study=4634&ds=1&bundle=ascii&path=NACJD,http://www.icpsr.umich.edu/cgi-bin/bob/terms2?study=4634&ds=1&bundle=ascii&path=NACJD,Tom Meagher
