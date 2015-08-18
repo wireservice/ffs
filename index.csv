@@ -62,3 +62,4 @@ los_angeles_county/assessor/local_roll.csv,fixed width,Los Angeles County Office
 us/nasa/sunspots-schema.csv,fixed width,NASA,http://solarscience.msfc.nasa.gov/SunspotCycle.shtml,extraced from file,Robert Kosara
 us/noaa/ghcn_schema.csv,fixed width,National Climatic Data Center,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/README,Beojan Stanislaus
 us/noaa/ghcn_metadata_schema.csv,fixed width,National Climatic Data Center,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/README,Beojan Stanislaus
+us/usno/maia_finals_schema.csv, fixed width, US Naval Observatory,http://maia.usno.navy.mil/ser7/finals.all ,http://maia.usno.navy.mil/ser7/readme.finals, David Yanofsky
