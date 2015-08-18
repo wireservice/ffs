@@ -63,3 +63,4 @@ us/nasa/sunspots-schema.csv,fixed width,NASA,http://solarscience.msfc.nasa.gov/S
 us/noaa/ghcn_schema.csv,fixed width,National Climatic Data Center,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/README,Beojan Stanislaus
 us/noaa/ghcn_metadata_schema.csv,fixed width,National Climatic Data Center,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/README,Beojan Stanislaus
 us/usno/maia_finals_schema.csv, fixed width, US Naval Observatory,http://maia.usno.navy.mil/ser7/finals.all ,http://maia.usno.navy.mil/ser7/readme.finals, David Yanofsky
+us/nacjd/leaic_2005.csv,fixed width Law Enforcement Agencies Identifier Crosswalk,National Archive of Criminal Justice Data,http://www.icpsr.umich.edu/cgi-bin/bob/terms2?study=4634&ds=1&bundle=ascii&path=NACJD,http://www.icpsr.umich.edu/cgi-bin/bob/terms2?study=4634&ds=1&bundle=ascii&path=NACJD,Tom Meagher
