@@ -1,0 +1,10 @@
+column,start,length
+contest_number,1,4
+candidate_number,5,3
+precinct_code,8,4
+total_votes,12,6
+election_day,18,6
+mail_ballots,24,6
+votes_group_3,30,6
+votes_group_4,36,6
+votes_group_5,42,6
